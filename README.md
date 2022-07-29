@@ -1,2 +1,4 @@
-# CIS-18A-Final-Project
-Repo for our final Java project!
+# CIS 18A FinalProject
+# Community Garden Appointment Setting
+## Welcome to our Final Project GitHub Repo
+
